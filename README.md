@@ -1,6 +1,4 @@
-Here’s a concise version of your README:
 
----
 
 # Kanban Board - Frontend Assignment
 
@@ -55,4 +53,4 @@ The app fetches data from the following endpoint:
 
 ## Hosting
 
-**[Live Demo Link](#)**
+**[https://prateek-quicksell.netlify.app/](#)**
