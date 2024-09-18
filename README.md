@@ -40,13 +40,16 @@ The app fetches data from the following endpoint:
 ## Setup
 
 1. Clone the repo:
+   ```bash
    git clone https://github.com/prateek1833/quickSell
    cd project-directory
    ```
 2. Install dependencies:
+   ```bash
    npm install
    ```
 3. Run the app:
+   ```bash
    npm start
    ```
 
